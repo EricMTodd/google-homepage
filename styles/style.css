@@ -1,15 +1,7 @@
-/* main {
+.google-search {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
-  display: block;
-  margin: auto;
-  max-height: 500px;
-  max-width: 500px;
-} */
-
-.content-wrapper {
-  text-align: center;
-  display: block;
-  margin: auto;
-  max-width: 500px;
-  max-height: 500px;
 }
