@@ -60,6 +60,10 @@ a:visited {
 }
 
 .icon {
-  height: 24px;
+  height: 20px;
   width: auto;
+}
+
+.icon-container {
+  margin-top: 60px;
 }
