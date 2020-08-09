@@ -22,6 +22,10 @@ button:hover {
   box-shadow: 0 0 2px black;
 }
 
+button:focus {
+  outline: none;
+}
+
 input {
   width: 80%;
   border-radius: 32px;
